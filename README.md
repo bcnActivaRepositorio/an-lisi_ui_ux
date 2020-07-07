@@ -61,7 +61,9 @@ les implicacions de les API necesaries per l'implementació a l'APP.
 
 En no tenir una APP directament similar, les úniques comparacions poden ser amb les App dels hospitals, tant
 
-en les seves versions de [`pacients`](#Pacients)
+en les seves versions de [`pacients`](#Pacients), [`hospitals`](#Bellvitge) i [usuaris](#Joan de Déu) poden 
+
+donar-me informació de quins par&agrave;metres treballar.  
 
 
 
