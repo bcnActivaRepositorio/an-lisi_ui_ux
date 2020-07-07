@@ -47,11 +47,11 @@ Com podem comprobar no hi hà un App d'aquestes característiques.
 
 [Geolocation.getCurrentPosition()](https://developer.mozilla.org/es/docs/Web/API/Geolocation/getCurrentPosition)
 
-L'API de Google es pot col.locar tant com a funció de JavaScript [stackoverflow]
+L'API de Google es pot col.locar tant com a funció de JavaScript 
 
-(https://stackoverflow.com/questions/16202077/high-accuracy-geolocation-html5) o com a script al document 
+[stackoverflow](https://stackoverflow.com/questions/16202077/high-accuracy-geolocation-html5) o com a 
 
-HTML [w3schools](https://www.w3schools.com/html/html5_geolocation.asp)
+script al document HTML [w3schools](https://www.w3schools.com/html/html5_geolocation.asp)
 
 Aquest [exercici](https://developers.arcgis.com/labs/javascript/get-map-coordinates/) m'ajudarà a entendre 
 
