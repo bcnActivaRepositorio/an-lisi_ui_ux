@@ -21,25 +21,25 @@ Per qué una App com aquesta? Fent treball de camp, m'he adonat que no hi hà un
 
 #### Pacients i usuaris sense haver-hi hospital fixe
 
-> * [Pacients](https://imgur.com/nbbIR7R.png)
+> * ![Pacients](https://imgur.com/nbbIR7R.png)
 
  [noticia](https://www.metropoliabierta.com/el-pulso-de-la-ciudad/sanidad/hospitales-barcelona-seguimiento-pacientes-movil_27546_102.html)
 
-> * [Seguiment pacients](https://imgur.com/KrFCzSU.png)
+> * ![Seguiment pacients](https://imgur.com/KrFCzSU.png)
 
 [noticia](https://www.clinicbarcelona.org/noticias/el-clinic-coordinara-la-validacion-de-una-app-europea-para-facilitar-el-seguimiento-de-los-pacientes-con-vih)
 
 #### Relació pacients-hospitals
 
-> * [Bellvitge](https://imgur.com/8GPX5pu.png)
+> * ![Bellvitge](https://imgur.com/8GPX5pu.png)
 
-> * [Clínic](https://imgur.com/kHEKxON.png)
+> * ![Clínic](https://imgur.com/kHEKxON.png)
 
-> * [Vall d'Hebrón](https://imgur.com/8lzbhdi.png)
+> * ![Vall d'Hebrón](https://imgur.com/8lzbhdi.png)
 
 #### Usuaris treballadors hospitals
 
-> * [Joan de Déu](https://imgur.com/zw0bLJX.png)
+> * ![Joan de Déu](https://imgur.com/zw0bLJX.png)
 
 Com podem comprobar no hi hà un App d'aquestes característiques.
 
