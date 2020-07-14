@@ -86,23 +86,23 @@ Conjunt de blaus, verds and blancs. Flat Design. Simplicitat per a la seva utili
 
 #### Wireframes
 
-![landing prtotype](https://imgur.com/az5HMjV.png)
+![landing prtotype](https://imgur.com/oKlI3Uc.png)
 
-![GPDR](https://imgur.com/W9f0oU3.png)
+![GPDR](https://imgur.com/FRVU46n.png)
 
 Important: Recorde'm que no podem evitar aquest pas donat la nova llei de dades de l'UE.
 
-![Form](https://imgur.com/9P2Mwxj.png)
+![Form](https://imgur.com/gwMBGSA.png)
 
 Formulari que s'ha d'omplir la primera vegada que utilitzem l'app
 
-![Loading](https://imgur.com/3vmX4tK.png)
+![Loading](https://imgur.com/CLv185S.png)
 
 Plana de càrrega de l'app. 
 
-![OK page](https://imgur.com/k8jLPr1.png)
+![OK page](https://imgur.com/v6kHT7L.png)
 
-![Error page](https://imgur.com/qbnK6Ph.png)
+![Error page](https://imgur.com/yDwDaOr.png)
 
 
 
