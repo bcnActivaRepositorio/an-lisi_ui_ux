@@ -65,7 +65,44 @@ en les seves versions de [`pacients`](#Pacients), [`hospitals`](#Bellvitge) i [u
 
 donar-me informació de quins par&agrave;metres treballar.  
 
+### Inici de la maquetació
 
+##### Colors
+
+[paletton](https://paletton.com/#uid=13K0u0kllllc0wdgGqHp+fYuFaB)
+
+Elecció de colors blaus, desaturats (les pantalles dels móbils tenen molta brillantor) o verds. Blau per la resonancia sanitaria, 
+
+verd per la tranquilitat i esprença que reportar. 
+
+![paleta de colors](https://imgur.com/3PORJ2Q.png)
+
+Conjunt de blaus, verds and blancs. Flat Design. Simplicitat per a la seva utilització.
+
+
+#### Col.locació botó landing page
+
+![estudi pantalles](https://imgur.com/oAwG3PC.png)
+
+#### Wireframes
+
+![landing prtotype](https://imgur.com/az5HMjV.png)
+
+![GPDR](https://imgur.com/W9f0oU3.png)
+
+Important: Recorde'm que no podem evitar aquest pas donat la nova llei de dades de l'UE.
+
+![Form](https://imgur.com/9P2Mwxj.png)
+
+Formulari que s'ha d'omplir la primera vegada que utilitzem l'app
+
+![Loading](https://imgur.com/3vmX4tK.png)
+
+Plana de càrrega de l'app. 
+
+![OK page](https://imgur.com/k8jLPr1.png)
+
+![Error page](https://imgur.com/qbnK6Ph.png)
 
 
 
