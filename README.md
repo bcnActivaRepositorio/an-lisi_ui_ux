@@ -104,6 +104,9 @@ Plana de càrrega de l'app.
 
 ![Error page](https://imgur.com/yDwDaOr.png)
 
+#### Concept Map
+![Concept map site](https://imgur.com/7t0km5R.png)
+
 
 
 
